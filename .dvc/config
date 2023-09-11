@@ -1,4 +1,4 @@
 [core]
     remote = storage
 ['remote "storage"']
-    url = s3://cse-public-demos-remote/test
+    url = s3://cse-demos-public-remote/test
